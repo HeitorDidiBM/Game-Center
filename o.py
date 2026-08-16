@@ -5,7 +5,7 @@ import calculadora
 
 
 def menu():
-    print('='*50)
+    print('='*5)
     print('🎮BEM-VINDO(A) AO GAME CENTER!🎮'.center(45))
     print('='*50)
     time.sleep(0.5)
